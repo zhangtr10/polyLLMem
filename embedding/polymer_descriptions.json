@@ -1,0 +1,41 @@
+{
+  "polymers": [
+    {
+      "id": "P400002",
+      "name": "poly[(3,3'-disulfanylbenzidine)-alt-(isophthaloyl dichloride)]",
+      "description": "Polymer Smile: [*]Nc1ccc(-c2ccc(NC(=O)c3cccc(C([*])=O)c3)c(S)c2)cc1S",
+      "metadata": {
+        "formula": "C20H14N2O2S2",
+        "category": "Polyamides",
+        "glass_transition_temp": "395.0",
+        "polymer_smiles": "[*]Nc1ccc(-c2ccc(NC(=O)c3cccc(C([*])=O)c3)c(S)c2)cc1S",
+        "monomer_smiles": "Nc1ccc(cc1S)-c1ccc(N)c(S)c1"
+      }
+    },
+    {
+      "id": "P342152",
+      "name": "poly((acryloylaminomethyl)phosphonic acid)",
+      "description": "Polymer Smile: [*]CC([*])C(=O)NCP(=O)(O)O",
+      "metadata": {
+        "formula": "C4H8NO4P",
+        "category": "Polyacrylics",
+        "glass_transition_temp": "26.00",
+        "polymer_smiles": "[*]CC([*])C(=O)NCP(=O)(O)O",
+        "monomer_smiles": "OP(O)(=O)CNC(=O)C=C"
+      }
+    },
+    {
+      "id": "P320002",
+      "name": "poly[1-(4-vinylphenyl)-2-phenylethanone oxime]",
+      "description": "Polymer Smile: [*]CC([*])c1ccc(C(Cc2ccccc2)=NO)cc1",
+      "metadata": {
+        "formula": "C16H15NO",
+        "category": "Polystyrenes",
+        "glass_transition_temp": "111.0",
+        "polymer_smiles": "[*]CC([*])c1ccc(C(Cc2ccccc2)=NO)cc1",
+        "monomer_smiles": "ON=C(Cc1ccccc1)c1ccc(C=C)cc1"
+      }
+    }
+
+  ]
+}
