@@ -1,0 +1,3 @@
+Glass transition temperature (Tg), Density,  Melting Tempeartures, Thermal decomposition temperature, conductivity, Young's modulus, tensile strength at yield, tensile strength at break,elongation at break, those data were manually collected from online resources, eg PolyInfo.
+
+For gas Permeability: value: Property value in log(10) form. Units for each property are: Permeability- "(cc*cm)/(cm^2*s*cmHg)", solubility- "cc/(cc*cmHg)", and diffusivity- "cm^2/s".}
